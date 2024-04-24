@@ -16,3 +16,7 @@ Passo 4: Acessando o Projeto Online
 Caso prefira, você pode visualizar o projeto diretamente pelo seu navegador, visitando o endereço web fornecido:
 https://techchallenge4brunoveiga.streamlit.app/
 Siga estas etapas para configurar e visualizar o projeto com facilidade.
+
+# Agora e o resto dos arquivos?
+Nesse mesmo repositório de arquivos da aplicação encontramos o meu notebook que me levou a tomar as decisões que tomei sobre modelagem, insights e etc, ele é o arquivo TechChallenge_4.ipynb. 
+Além disso, vou enviar uma pasta com o arquivo pbix que fiz e o csv que ele consome (dashboard interativo), além da apresentação em pdf. 
